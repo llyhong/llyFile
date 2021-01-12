@@ -4,6 +4,9 @@
 [github.readme https://www.cnblogs.com/sishuiliuyun/p/4401915.html](https://www.cnblogs.com/sishuiliuyun/p/4401915.html)
 
 
+### 法线混合算法
+[https://blog.selfshadow.com/publications/blending-in-detail/](https://blog.selfshadow.com/publications/blending-in-detail/)
+
 ### Dynamic wirkle Maps, Dyanimic Normal Maps,皱纹法线细节融合
 
 [https://www.artstation.com/leahmcewen/blog/0Yl7/dynamic-wrinkle-maps-in-ue4](https://www.artstation.com/leahmcewen/blog/0Yl7/dynamic-wrinkle-maps-in-ue4)    
