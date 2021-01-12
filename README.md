@@ -3,6 +3,19 @@
 ## 书写链接
 [github.readme https://www.cnblogs.com/sishuiliuyun/p/4401915.html](https://www.cnblogs.com/sishuiliuyun/p/4401915.html)
 
+## 书籍
+Filament中基于物理的渲染 [https://jerkwin.github.io/filamentcn/Filament.md.html](https://jerkwin.github.io/filamentcn/Filament.md.html)    
+GPU Gems [https://developer.nvidia.com/gpugems/gpugems/part-iii-materials/chapter-16-real-time-approximations-subsurface-scattering](https://developer.nvidia.com/gpugems/gpugems/part-iii-materials/chapter-16-real-time-approximations-subsurface-scattering)    
+The Cg Tutorial [https://developer.download.nvidia.cn/CgTutorial/cg_tutorial_chapter08.html](https://developer.download.nvidia.cn/CgTutorial/cg_tutorial_chapter08.html)    
+microsoft DirectX Technical Articles [https://docs.microsoft.com/zh-cn/windows/win32/dxtecharts/cascaded-shadow-maps?redirectedfrom=MSDN](https://docs.microsoft.com/zh-cn/windows/win32/dxtecharts/cascaded-shadow-maps?redirectedfrom=MSDN)    
+Learn Opengl [https://learnopengl.com/Advanced-Lighting/Parallax-Mapping](https://learnopengl.com/Advanced-Lighting/Parallax-Mapping)    
+The Book of Shaders [https://thebookofshaders.com/11/?lan=ch](https://thebookofshaders.com/11/?lan=ch)    
+Opengl Tutorial [http://ogldev.atspace.co.uk/www/tutorial20/tutorial20.html](http://ogldev.atspace.co.uk/www/tutorial20/tutorial20.html)    
+realtimerendering [http://advances.realtimerendering.com/](http://advances.realtimerendering.com/)    
+UnityEditor Book [http://49.233.81.186/customeditor.html](http://49.233.81.186/customeditor.html)    
+GPU Zen Books [http://www.realtimerendering.com/resources/shaderx/](http://www.realtimerendering.com/resources/shaderx/)    
+PBR Books [http://www.pbr-book.org/3ed-2018/contents.html](http://www.pbr-book.org/3ed-2018/contents.html)    
+
 
 ### 法线混合算法
 [https://blog.selfshadow.com/publications/blending-in-detail/](https://blog.selfshadow.com/publications/blending-in-detail/)
