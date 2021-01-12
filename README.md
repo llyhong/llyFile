@@ -25,3 +25,9 @@
 Foliage#Vertex_Normals [http://wiki.polycount.com/wiki/Foliage#Vertex_Normals](http://wiki.polycount.com/wiki/Foliage#Vertex_Normals)   
 stylized-nature-vegetation [https://80.lv/articles/stylized-nature-vegetation-animation-shaders/](https://80.lv/articles/stylized-nature-vegetation-animation-shaders/)   
 Between Tech and Art: The Vegetation of 'Horizon Zero Dawn' [https://www.gdcvault.com/play/1025530/Between-Tech-and-Art-The](https://www.gdcvault.com/play/1025530/Between-Tech-and-Art-The)   
+
+### Dynamic Bone
+Dynamic Bone (&乳搖) 研究筆記 [https://forum.gamer.com.tw/C.php?bsn=60602&snA=2943](https://forum.gamer.com.tw/C.php?bsn=60602&snA=2943)    
+DynamicBones-GPUSkinning [DynamicBones-GPUSkinning](https://github.com/chenyong2github/DynamicBones-GPUSkinning)    
+uSpringBone [https://github.com/EsProgram/uSpringBone](https://github.com/EsProgram/uSpringBone)    
+SPCRJointDynamics [https://github.com/SPARK-inc/SPCRJointDynamics](https://github.com/SPARK-inc/SPCRJointDynamics)    
