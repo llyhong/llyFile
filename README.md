@@ -64,3 +64,7 @@ Directional AO [https://sawcegames.com/en/post/directional-ao](https://sawcegame
 
 ### VFX
 [https://lexdev.net/tutorials/case_studies/gears_hammerofdawn.html](https://lexdev.net/tutorials/case_studies/gears_hammerofdawn.html)    
+
+
+### 其他
+光影的原理 Lights and Shadows [https://ciechanow.ski/lights-and-shadows/](https://ciechanow.ski/lights-and-shadows/)    
