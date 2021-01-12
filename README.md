@@ -24,4 +24,4 @@
 树叶体积感渲染 [http://walkingfat.com/foliage-rendering-%e6%a0%91%e5%8f%b6%e4%bd%93%e7%a7%af%e6%84%9f%e6%b8%b2%e6%9f%93%e4%ba%8c/](http://walkingfat.com/foliage-rendering-%e6%a0%91%e5%8f%b6%e4%bd%93%e7%a7%af%e6%84%9f%e6%b8%b2%e6%9f%93%e4%ba%8c/)    
 Foliage#Vertex_Normals [http://wiki.polycount.com/wiki/Foliage#Vertex_Normals](http://wiki.polycount.com/wiki/Foliage#Vertex_Normals)   
 stylized-nature-vegetation [https://80.lv/articles/stylized-nature-vegetation-animation-shaders/](https://80.lv/articles/stylized-nature-vegetation-animation-shaders/)   
-Between Tech and Art: The Vegetation of 'Horizon Zero Dawn'[https://www.gdcvault.com/play/1025530/Between-Tech-and-Art-The](https://www.gdcvault.com/play/1025530/Between-Tech-and-Art-The)   
+Between Tech and Art: The Vegetation of 'Horizon Zero Dawn' [https://www.gdcvault.com/play/1025530/Between-Tech-and-Art-The](https://www.gdcvault.com/play/1025530/Between-Tech-and-Art-The)   
