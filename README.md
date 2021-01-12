@@ -3,7 +3,7 @@
 ## 书写链接
 [github.readme https://www.cnblogs.com/sishuiliuyun/p/4401915.html](https://www.cnblogs.com/sishuiliuyun/p/4401915.html)
 
-## 书籍
+## 个人常用书籍相关
 Filament中基于物理的渲染 [https://jerkwin.github.io/filamentcn/Filament.md.html](https://jerkwin.github.io/filamentcn/Filament.md.html)    
 GPU Gems [https://developer.nvidia.com/gpugems/gpugems/part-iii-materials/chapter-16-real-time-approximations-subsurface-scattering](https://developer.nvidia.com/gpugems/gpugems/part-iii-materials/chapter-16-real-time-approximations-subsurface-scattering)    
 The Cg Tutorial [https://developer.download.nvidia.cn/CgTutorial/cg_tutorial_chapter08.html](https://developer.download.nvidia.cn/CgTutorial/cg_tutorial_chapter08.html)    
