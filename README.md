@@ -32,6 +32,7 @@ PBR Books [http://www.pbr-book.org/3ed-2018/contents.html](http://www.pbr-book.o
 动态草地制作 [http://walkingfat.com/dynamic-grass-%e5%8a%a8%e6%80%81%e8%8d%89%e5%9c%b0%e5%88%b6%e4%bd%9c/](http://walkingfat.com/dynamic-grass-%e5%8a%a8%e6%80%81%e8%8d%89%e5%9c%b0%e5%88%b6%e4%bd%9c/)    
 移动端草海的渲染方案 [https://baddogzz.github.io/2020/01/14/Unity-Grass-01/](https://baddogzz.github.io/2020/01/14/Unity-Grass-01/)    
 割草、烧草 [https://baddogzz.github.io/2020/01/20/Unity-Grass-04/](https://baddogzz.github.io/2020/01/20/Unity-Grass-04/)    
+Grass-Shader [https://roystan.net/articles/grass-shader.html](https://roystan.net/articles/grass-shader.html)    
 
 ### 树叶、foliage、vegetation
 树叶体积感渲染 [http://walkingfat.com/foliage-rendering-%e6%a0%91%e5%8f%b6%e4%bd%93%e7%a7%af%e6%84%9f%e6%b8%b2%e6%9f%93%e4%ba%8c/](http://walkingfat.com/foliage-rendering-%e6%a0%91%e5%8f%b6%e4%bd%93%e7%a7%af%e6%84%9f%e6%b8%b2%e6%9f%93%e4%ba%8c/)    
