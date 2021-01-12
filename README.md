@@ -46,3 +46,9 @@ DynamicBones-GPUSkinning [DynamicBones-GPUSkinning](https://github.com/chenyong2
 uSpringBone [https://github.com/EsProgram/uSpringBone](https://github.com/EsProgram/uSpringBone)    
 SPCRJointDynamics [https://github.com/SPARK-inc/SPCRJointDynamics](https://github.com/SPARK-inc/SPCRJointDynamics)    
 Magica cloth [https://magicasoft.jp/en/magica-cloth-2/](https://magicasoft.jp/en/magica-cloth-2/)    
+
+### Water 水
+Unity中简单水的效果实现 [https://ciel1012.github.io/2019/10/29/unitywater/](https://ciel1012.github.io/2019/10/29/unitywater/)    
+
+### Glass 玻璃
+[]()    
