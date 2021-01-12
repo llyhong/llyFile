@@ -7,7 +7,7 @@
 ### 法线混合算法
 [https://blog.selfshadow.com/publications/blending-in-detail/](https://blog.selfshadow.com/publications/blending-in-detail/)
 
-### Dynamic wirkle Maps, Dyanimic Normal Maps,皱纹法线细节融合
+### Dynamic wirkle Maps, Dynamic Normal Maps,皱纹法线细节融合
 
 [https://www.artstation.com/leahmcewen/blog/0Yl7/dynamic-wrinkle-maps-in-ue4](https://www.artstation.com/leahmcewen/blog/0Yl7/dynamic-wrinkle-maps-in-ue4)    
 [http://janbubenik.blogspot.com/2009/10/dynamic-normalmaps-for-faces.html](http://janbubenik.blogspot.com/2009/10/dynamic-normalmaps-for-faces.html)    
