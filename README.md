@@ -16,6 +16,9 @@ UnityEditor Book [http://49.233.81.186/customeditor.html](http://49.233.81.186/c
 GPU Zen Books [http://www.realtimerendering.com/resources/shaderx/](http://www.realtimerendering.com/resources/shaderx/)    
 PBR Books [http://www.pbr-book.org/3ed-2018/contents.html](http://www.pbr-book.org/3ed-2018/contents.html)    
 
+## 数学
+画数学函数曲线[https://www.desmos.com/calculator/0ovfwwmfrb](https://www.desmos.com/calculator/0ovfwwmfrb)    
+动画曲线easings [https://easings.net/](https://easings.net/)     
 
 ### 法线混合算法
 [https://blog.selfshadow.com/publications/blending-in-detail/](https://blog.selfshadow.com/publications/blending-in-detail/)
