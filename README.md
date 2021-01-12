@@ -52,3 +52,7 @@ Unity中简单水的效果实现 [https://ciel1012.github.io/2019/10/29/unitywat
 
 ### Glass 玻璃
 如何在游戏中表现玻璃的质感 [https://mp.weixin.qq.com/s/-ukjq_pJqCCAYHQEcmzO3w?tdsourcetag=s_pcqq_aiomsg](https://mp.weixin.qq.com/s/-ukjq_pJqCCAYHQEcmzO3w?tdsourcetag=s_pcqq_aiomsg)    
+
+### Bent Normal、 Ambient Occlusion
+GPU-based Bent Normal and Ambient Occlusion [https://github.com/Fewes/BNAO](https://github.com/Fewes/BNAO)    
+Directional AO [https://sawcegames.com/en/post/directional-ao](https://sawcegames.com/en/post/directional-ao)   
