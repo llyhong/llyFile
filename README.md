@@ -17,8 +17,9 @@ GPU Zen Books [http://www.realtimerendering.com/resources/shaderx/](http://www.r
 PBR Books [http://www.pbr-book.org/3ed-2018/contents.html](http://www.pbr-book.org/3ed-2018/contents.html)    
 
 ## 数学
-画数学函数曲线[https://www.desmos.com/calculator/0ovfwwmfrb](https://www.desmos.com/calculator/0ovfwwmfrb)    
+画数学函数曲线 [https://www.desmos.com/calculator/0ovfwwmfrb](https://www.desmos.com/calculator/0ovfwwmfrb)    
 动画曲线easings [https://easings.net/](https://easings.net/)     
+游戏数学相关知识[https://www.3dgep.com/category/math/](https://www.3dgep.com/category/math/)    
 
 ### 法线混合算法
 [https://blog.selfshadow.com/publications/blending-in-detail/](https://blog.selfshadow.com/publications/blending-in-detail/)
@@ -59,3 +60,6 @@ Unity中简单水的效果实现 [https://ciel1012.github.io/2019/10/29/unitywat
 ### Bent Normal、 Ambient Occlusion
 GPU-based Bent Normal and Ambient Occlusion [https://github.com/Fewes/BNAO](https://github.com/Fewes/BNAO)    
 Directional AO [https://sawcegames.com/en/post/directional-ao](https://sawcegames.com/en/post/directional-ao)   
+
+### VFX
+[https://lexdev.net/tutorials/case_studies/gears_hammerofdawn.html](https://lexdev.net/tutorials/case_studies/gears_hammerofdawn.html)    
