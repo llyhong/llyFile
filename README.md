@@ -47,6 +47,7 @@ Foliage#Vertex_Normals [http://wiki.polycount.com/wiki/Foliage#Vertex_Normals](h
 stylized-nature-vegetation [https://80.lv/articles/stylized-nature-vegetation-animation-shaders/](https://80.lv/articles/stylized-nature-vegetation-animation-shaders/)   
 Between Tech and Art: The Vegetation of 'Horizon Zero Dawn' [https://www.gdcvault.com/play/1025530/Between-Tech-and-Art-The](https://www.gdcvault.com/play/1025530/Between-Tech-and-Art-The)   
 Stylized Tree tutorial [https://www.patreon.com/posts/25192376](https://www.patreon.com/posts/25192376)    
+Anti-aliased Alpha Test:Alpha To Coverage [https://bgolus.medium.com/anti-aliased-alpha-test-the-esoteric-alpha-to-coverage-8b177335ae4f](https://bgolus.medium.com/anti-aliased-alpha-test-the-esoteric-alpha-to-coverage-8b177335ae4f)    
 
 ### 布料、飘带、dynamicBone、cloth
 Dynamic Bone (&乳搖) 研究筆記 [https://forum.gamer.com.tw/C.php?bsn=60602&snA=2943](https://forum.gamer.com.tw/C.php?bsn=60602&snA=2943)    
