@@ -4,7 +4,8 @@
 [github.readme https://www.cnblogs.com/sishuiliuyun/p/4401915.html](https://www.cnblogs.com/sishuiliuyun/p/4401915.html)
 
 ## URP 快速转换
-Unity Built-in转URP速查表 [https://cuihongzhi1991.github.io/blog/2020/05/27/builtinttourp/](https://cuihongzhi1991.github.io/blog/2020/05/27/builtinttourp/)    
+Unity Built-in转URP速查表 [https://cuihongzhi1991.github.io/blog/2020/05/27/builtinttourp/](https://cuihongzhi1991.github.io/blog/2020/05/27/builtinttourp/)   
+URP Basic [https://edom18.hateblo.jp/entry/2020/11/12/093146](https://edom18.hateblo.jp/entry/2020/11/12/093146)    
 
 ## 个人常用书籍相关
 Filament中基于物理的渲染 [https://jerkwin.github.io/filamentcn/Filament.md.html](https://jerkwin.github.io/filamentcn/Filament.md.html)    
