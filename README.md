@@ -25,6 +25,10 @@ PBR Books [http://www.pbr-book.org/3ed-2018/contents.html](http://www.pbr-book.o
 动画曲线easings [https://easings.net/](https://easings.net/)     
 游戏数学相关知识[https://www.3dgep.com/category/math/](https://www.3dgep.com/category/math/)    
 
+## Maya插件开发Tutorial   
+[https://www.chadvernon.com/maya-api-programming/introduction/](https://www.chadvernon.com/maya-api-programming/introduction/)    
+[]()    
+
 ### 法线混合算法
 [https://blog.selfshadow.com/publications/blending-in-detail/](https://blog.selfshadow.com/publications/blending-in-detail/)
 
