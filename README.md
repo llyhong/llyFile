@@ -19,6 +19,7 @@ realtimerendering [http://advances.realtimerendering.com/](http://advances.realt
 UnityEditor Book [http://49.233.81.186/customeditor.html](http://49.233.81.186/customeditor.html)    
 GPU Zen Books [http://www.realtimerendering.com/resources/shaderx/](http://www.realtimerendering.com/resources/shaderx/)    
 PBR Books [http://www.pbr-book.org/3ed-2018/contents.html](http://www.pbr-book.org/3ed-2018/contents.html)    
+Foundations of Game Engine Development [http://foundationsofgameenginedev.com/](http://foundationsofgameenginedev.com/)    
 
 ## 数学
 画数学函数曲线 [https://www.desmos.com/calculator/0ovfwwmfrb](https://www.desmos.com/calculator/0ovfwwmfrb)    
