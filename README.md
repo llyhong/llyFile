@@ -39,6 +39,7 @@ Foundations of Game Engine Development [http://foundationsofgameenginedev.com/](
 [http://janbubenik.blogspot.com/2009/10/dynamic-normalmaps-for-faces.html](http://janbubenik.blogspot.com/2009/10/dynamic-normalmaps-for-faces.html)    
 [https://blogs.unity3d.com/2015/05/28/wrinkle-maps-in-the-blacksmith/](https://blogs.unity3d.com/2015/05/28/wrinkle-maps-in-the-blacksmith/)    
 [https://www.artstation.com/artwork/nYNwn6](https://www.artstation.com/artwork/nYNwn6)    
+[https://silo.tips/download/animated-wrinkle-maps](https://silo.tips/download/animated-wrinkle-maps)    
 
 ### 草地交互、燃烧、interact grass
 草的交互及燃烧效果模拟 [https://gameinstitute.qq.com/community/detail/117309](https://gameinstitute.qq.com/community/detail/117309)    
