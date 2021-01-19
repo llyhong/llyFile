@@ -40,6 +40,7 @@ Foundations of Game Engine Development [http://foundationsofgameenginedev.com/](
 [https://blogs.unity3d.com/2015/05/28/wrinkle-maps-in-the-blacksmith/](https://blogs.unity3d.com/2015/05/28/wrinkle-maps-in-the-blacksmith/)    
 [https://www.artstation.com/artwork/nYNwn6](https://www.artstation.com/artwork/nYNwn6)    
 [https://silo.tips/download/animated-wrinkle-maps](https://silo.tips/download/animated-wrinkle-maps)    
+[http://developer.amd.com/wordpress/media/2012/10/Oat-Wrinkles%28Siggraph07%29.pdf](http://developer.amd.com/wordpress/media/2012/10/Oat-Wrinkles%28Siggraph07%29.pdf)    
 
 ### 草地交互、燃烧、interact grass
 草的交互及燃烧效果模拟 [https://gameinstitute.qq.com/community/detail/117309](https://gameinstitute.qq.com/community/detail/117309)    
