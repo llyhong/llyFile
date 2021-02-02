@@ -81,7 +81,7 @@ Directional AO [https://sawcegames.com/en/post/directional-ao](https://sawcegame
 CascadedShadowMapping [https://github.com/chenyong2github/CascadedShadowMapping](https://github.com/chenyong2github/CascadedShadowMapping)    
 CascadedShadowMapping [https://docs.microsoft.com/zh-cn/windows/win32/dxtecharts/cascaded-shadow-maps?redirectedfrom=MSDN](https://docs.microsoft.com/zh-cn/windows/win32/dxtecharts/cascaded-shadow-maps?redirectedfrom=MSDN)    
 CascadedShadowMapping [http://ogldev.atspace.co.uk/www/tutorial49/tutorial49.html](http://ogldev.atspace.co.uk/www/tutorial49/tutorial49.html)      
-
+How-to-detect-edge-of-shadow-map-texture [https://stackoverflow.com/questions/49595694/how-to-detect-edge-of-shadow-map-texture-glsl]    
 
 
 ### 其他
