@@ -86,6 +86,19 @@ How-to-detect-edge-of-shadow-map-texture [https://stackoverflow.com/questions/49
 ### Wind
 [https://connect.unity.com/p/deconstructing-unity-trees-for-wind-zone-dynamics?_ga=2.66396201.608996043.1612230376-1794960821.1607928012](https://connect.unity.com/p/deconstructing-unity-trees-for-wind-zone-dynamics?_ga=2.66396201.608996043.1612230376-1794960821.1607928012)
 
+### CombineMesh
+带多个submeshes模型合并，无法显示[https://answer.uwa4d.com/question/5fe55b1a10a17c6c2b09d778](https://answer.uwa4d.com/question/5fe55b1a10a17c6c2b09d778)
+  需要对每个CombineInstance重新指定三角面，才能正常显示带多个submeshes的模型
+        for (int i = 0; i < ms.subMeshCount; ++i)
+        {
+            CombineInstance ci = new CombineInstance();
+            ci.mesh = ms;
+            ci.transform = tr;
+            ci.subMeshIndex = i;
+            ci.mesh.triangles = ms.triangles;
+            lstCombineInstances.Add(ci);
+        }
+
 
 ### 其他
 光影的原理 Lights and Shadows [https://ciechanow.ski/lights-and-shadows/](https://ciechanow.ski/lights-and-shadows/)    
