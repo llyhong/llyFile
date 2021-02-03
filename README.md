@@ -83,6 +83,9 @@ CascadedShadowMapping [https://docs.microsoft.com/zh-cn/windows/win32/dxtecharts
 CascadedShadowMapping [http://ogldev.atspace.co.uk/www/tutorial49/tutorial49.html](http://ogldev.atspace.co.uk/www/tutorial49/tutorial49.html)      
 How-to-detect-edge-of-shadow-map-texture [https://stackoverflow.com/questions/49595694/how-to-detect-edge-of-shadow-map-texture-glsl]    
 
+### Wind
+[https://connect.unity.com/p/deconstructing-unity-trees-for-wind-zone-dynamics?_ga=2.66396201.608996043.1612230376-1794960821.1607928012](https://connect.unity.com/p/deconstructing-unity-trees-for-wind-zone-dynamics?_ga=2.66396201.608996043.1612230376-1794960821.1607928012)
+
 
 ### 其他
 光影的原理 Lights and Shadows [https://ciechanow.ski/lights-and-shadows/](https://ciechanow.ski/lights-and-shadows/)    
