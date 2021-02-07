@@ -82,6 +82,7 @@ CascadedShadowMapping [https://github.com/chenyong2github/CascadedShadowMapping]
 CascadedShadowMapping [https://docs.microsoft.com/zh-cn/windows/win32/dxtecharts/cascaded-shadow-maps?redirectedfrom=MSDN](https://docs.microsoft.com/zh-cn/windows/win32/dxtecharts/cascaded-shadow-maps?redirectedfrom=MSDN)    
 CascadedShadowMapping [http://ogldev.atspace.co.uk/www/tutorial49/tutorial49.html](http://ogldev.atspace.co.uk/www/tutorial49/tutorial49.html)      
 How-to-detect-edge-of-shadow-map-texture [https://stackoverflow.com/questions/49595694/how-to-detect-edge-of-shadow-map-texture-glsl]    
+DFAO and Soft Shadows based on SDF - A Unity Production[https://zephyrl.github.io/SDF-Unity/](https://zephyrl.github.io/SDF-Unity/)
 
 ### Wind
 [https://connect.unity.com/p/deconstructing-unity-trees-for-wind-zone-dynamics?_ga=2.66396201.608996043.1612230376-1794960821.1607928012](https://connect.unity.com/p/deconstructing-unity-trees-for-wind-zone-dynamics?_ga=2.66396201.608996043.1612230376-1794960821.1607928012)
