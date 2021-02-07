@@ -99,6 +99,8 @@ How-to-detect-edge-of-shadow-map-texture [https://stackoverflow.com/questions/49
             lstCombineInstances.Add(ci);
         }
 
+### Fur
+a signed distance field baker for Unity[https://github.com/xraxra/SDFr](https://github.com/xraxra/SDFr)
 
 ### 其他
 光影的原理 Lights and Shadows [https://ciechanow.ski/lights-and-shadows/](https://ciechanow.ski/lights-and-shadows/)    
