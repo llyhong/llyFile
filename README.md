@@ -33,7 +33,7 @@ Foundations of Game Engine Development [http://foundationsofgameenginedev.com/](
 ### 法线混合算法
 [https://blog.selfshadow.com/publications/blending-in-detail/](https://blog.selfshadow.com/publications/blending-in-detail/)
 
-### Dynamic wirkle Maps, Dynamic Normal Maps,皱纹法线细节融合
+### Dynamic wrinkle Maps, Dynamic Normal Maps,皱纹法线细节融合
 
 [https://www.artstation.com/leahmcewen/blog/0Yl7/dynamic-wrinkle-maps-in-ue4](https://www.artstation.com/leahmcewen/blog/0Yl7/dynamic-wrinkle-maps-in-ue4)    
 [http://janbubenik.blogspot.com/2009/10/dynamic-normalmaps-for-faces.html](http://janbubenik.blogspot.com/2009/10/dynamic-normalmaps-for-faces.html)    
@@ -41,6 +41,7 @@ Foundations of Game Engine Development [http://foundationsofgameenginedev.com/](
 [https://www.artstation.com/artwork/nYNwn6](https://www.artstation.com/artwork/nYNwn6)    
 [https://silo.tips/download/animated-wrinkle-maps](https://silo.tips/download/animated-wrinkle-maps)    
 [http://developer.amd.com/wordpress/media/2012/10/Oat-Wrinkles%28Siggraph07%29.pdf](http://developer.amd.com/wordpress/media/2012/10/Oat-Wrinkles%28Siggraph07%29.pdf)    
+[https://graphics.unizar.es/papers/JimenezWrinkles_low.pdf](https://graphics.unizar.es/papers/JimenezWrinkles_low.pdf)
 
 ### 草地交互、燃烧、interact grass
 草的交互及燃烧效果模拟 [https://gameinstitute.qq.com/community/detail/117309](https://gameinstitute.qq.com/community/detail/117309)    
