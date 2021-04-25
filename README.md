@@ -104,5 +104,8 @@ DFAO and Soft Shadows based on SDF - A Unity Production[https://zephyrl.github.i
 ### Fur
 a signed distance field baker for Unity[https://github.com/xraxra/SDFr](https://github.com/xraxra/SDFr)
 
+### Local Motion Phases动作合成
+[https://github.com/sebastianstarke/AI4Animation]  
+ 
 ### 其他
 光影的原理 Lights and Shadows [https://ciechanow.ski/lights-and-shadows/](https://ciechanow.ski/lights-and-shadows/)    
